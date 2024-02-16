@@ -1,0 +1,14 @@
+https://www.kaggle.com/code/aasimohyeah/linear-regression-gradient-descent-on-iris-dataset/notebook
+https://numpy.org/doc/stable/reference/generated/numpy.save.html
+https://www.geeksforgeeks.org/numpy-savetxt/
+https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.scatter.html#matplotlib.axes.Axes.scatter
+https://github.com/Rutuja177/Machine-Learning
+https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html#
+https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_iris.html#sklearn.datasets.load_iris
+https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
+https://warwick.ac.uk/fac/sci/moac/people/students/peter_cock/r/iris_lm/
+https://towardsdatascience.com/stochastic-gradient-descent-explanation-and-complete-implementation-from-scratch-a2c6a02f28bd
+https://towardsdatascience.com/linear-regression-using-gradient-descent-97a6c8700931
+https://www.kaggle.com/code/residentmario/gradient-descent-with-linear-regression/notebook
+https://developer.ibm.com/articles/implementing-logistic-regression-from-scratch-in-python/
+https://dillhoffaj.utasites.cloud/posts/logistic_regression/
